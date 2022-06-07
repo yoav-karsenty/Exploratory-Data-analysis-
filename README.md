@@ -9,3 +9,7 @@ I will handle the data with the next steps:
 4. Study the core parameters that could help me understand the data further.
 5. Treating outliers and study the "clean" data
 6. Reacing conclusions.
+ # Skills demonstrated :
+ 1. Treating outliers in dataset
+ 2. Fixing data types
+ 3. Visualising the data using seaborn and matplotlib
