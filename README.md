@@ -13,4 +13,3 @@ I will handle the data with the next steps:
  1. Treating outliers in dataset
  2. Fixing data types
  3. Visualising the data using seaborn and matplotlib
-<img width="743" alt="Screen Shot 2022-06-07 at 13 42 37" src="https://user-images.githubusercontent.com/106253489/172361050-371dd506-e5be-4769-a465-a96231ecbe52.png">
